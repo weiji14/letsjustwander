@@ -1,6 +1,8 @@
-# Let's Just Wander
-
-Welcome to this blog!
+---
+title: Let's Just Wander
+subtitle: A blog to jot down wanderlusting thoughts with a heck of a mindset.
+layout: base.njk
+---
 
 ## Posts
 
