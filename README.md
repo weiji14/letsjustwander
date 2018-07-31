@@ -63,7 +63,7 @@ Note that this may require some expertise to work, rough guidelines below.
     dat create
     dat share
 
-    # [Publish using beaker-browser](https://beakerbrowser.com/docs/tutorials/create-a-blog.html) (**easy**)
+    # [Publish using beaker-browser](https://beakerbrowser.com/docs/tutorials/create-a-blog.html) (**easy**, but not recommended)
     # Download browser from https://beakerbrowser.com/install/ and install
     # Open browser, open new tab, click on 'New +', and then 'Import from folder'
 
