@@ -1,25 +1,30 @@
 <!doctype html>
 <html lang="en">
+
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/yegor256/tacit/gh-pages/tacit-css-1.3.1.min.css" />
     <title>{{ title }}</title>
   </head>
-  <body class="{{ bodyClass }}" >
-    <div class="container">
-      <header>
-        <ul class="nav">
-          <li>
-            <a href="/">home</a>
-          </li>
-          <li>
-            <a href="/about">about</a>
-          </li>
-        </ul>
+
+  <body>
+    <nav>
+      <ul>
+        <li> <a href="/">home</a> </li>
+        <li> <a href="/about">about</a> </li>
+      </ul>
+    </nav>
+    <section>
+      <article>
         <h1>{{ title }}</h1>
-        {%- if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
-      </header>
-      {{ content | safe }}
-    </div>
+        {%- if subtitle %}
+        <p>{{ subtitle }}</p>
+        {% endif %}
+        {{ content | safe }}
+      </article>
+    </section>
   </body>
+
 </html>
+
