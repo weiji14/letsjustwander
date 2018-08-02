@@ -66,7 +66,7 @@ Having this high tolerance might mean a degree of insensitivity.
 It doesn't mean however, that I can be insensitive to what's happening in other people's lives.
 At the same time, who on Earth has the mental capacity to handle nonsense (political or otherwise)?
 
-The people who care.
+The people who care do.
 
 Blind tolerance is not true compassion.
 Real compassion takes effort, it requires a persistent attitude, it is not a passive act.
@@ -84,7 +84,7 @@ Having gone through the hard yards researching bits and pieces here and there.
 On different ways of looking at things, or doing things.
 
 So read on with an open heart.
-News only appear fresh because you have been tunneled your vision on one thing for too long.
+News only appear fresh because you have been tunnelling your vision on one thing for too long.
 Turn your head, and look away from your phone/computer.
 
 Saw something new?
