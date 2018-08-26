@@ -21,7 +21,7 @@ Built using the [Eleventy](https://github.com/11ty/11ty.io) static site generato
     │   ├──about.html (pre-generated about page)
     ├── .<something>ignore (files ignored by a particular piece of software)
     ├──README.md (the markdown file you're reading now)
-    ├──about.md (the markdown file that will become the about page
+    ├──about.md (the markdown file that will become the about page)
     ├──dat.json (useful for people wanting to share this repo via p2p dat protocol)
     └──index.md (the markdown file that will become the front page of the blog)
 ```
