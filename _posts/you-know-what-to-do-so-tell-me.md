@@ -134,7 +134,7 @@ But if you **tell** me about it, maybe I can help.
 
 Actually, you can tell anyone, even a bot, or just write it down somewhere, and it will probably still help.
 
-There's a [psychology study](osf.io/yqbs4) (n=2274, randomized-control, double-blind, read: pretty-gold-standard) that found:
+There's a [psychology study](https://osf.io/yqbs4) (n=2274, randomized-control, double-blind, read: pretty-gold-standard) that found:
 "strugglers who gave advice, compared to those who received expert advice, were more motivated to save money, control their tempers, and seek employment."
 
 Yes, **giving** might be it!
