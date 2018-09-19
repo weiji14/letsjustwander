@@ -8,7 +8,7 @@ But it is something I'll need to reconcile eventually.
 There's a few things that may or may not have brought me to write this brief account today.
 Bear with me on this lengthy prologue.
 
-First, a 'young' lecturer who once taught me gave his [professorial speech](https://www.victoria.ac.nz/events/2018/09/glaciers-and-ice-sheets-in-a-changing-climate) last Tuesday.
+First, a 'young' lecturer who once taught me gave his [professorial speech](https://www.victoria.ac.nz/about/news-events/victoria-public-lecture-series/glaciers-and-ice-sheets-in-a-changing-climate)([video link](https://www.youtube.com/watch?v=fY-8mJHMUpg)) last Tuesday.
 In it, he choked up quite a bit on looking back at his career highlights, with a generous amount of shout-outs to his colleagues, current and former PhD students, and family.
 Somewhere in my files, I still have an undergraduate essay he graded an A+ for (not that I asked him to autograph it).
 But really, it makes one think, what would I say if I were to give a speech, looking back to this moment now in 10-20 years time?
