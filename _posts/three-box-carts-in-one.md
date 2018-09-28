@@ -66,12 +66,12 @@ Ok ok, maybe I will use an analogy.
 In his book "The Three Boxes of Life", [Richard Bolles](https://en.wikipedia.org/wiki/Richard_Nelson_Bolles) breaks down the normal way we think of our so called career.
 Usually we think of it as a progression from study to work and finally retirement.
 
-![Horizontal Three Boxes of Life](http://yuml.me/diagram/scruffy;dir:LR/class/[Study]->[Work],[Work]->[Retirement])
+![Horizontal Three Boxes of Life](https://yuml.me/diagram/scruffy;dir:LR/class/[Study]->[Work],[Work]->[Retirement])
 
 Maybe though, we're better off stacking these boxes on top of one another.
 Lifelong study, lifelong work, lifelong leisure.
 
-![Vertical Three Boxes of Life](http://yuml.me/diagram/scruffy;dir:LR/class/[Study|Work|Leisure])
+![Vertical Three Boxes of Life](https://yuml.me/diagram/scruffy;dir:LR/class/[Study|Work|Leisure])
 
 The book was originally written in 1981, imagine that!
 I was introduced to it a few days ago at a meetup on Wednesday night that was discussing the future of education/work.
@@ -108,13 +108,13 @@ Can we stop with the paper grading, have assignments all done online, graded by 
 It turns out we still have a lot to do.
 
 New Zealand does score highly amongst the OECD average for reading, mathematical and scientific literacy in the Programme for International Student Assessment (PISA).
-However, there is a long "tail" of school underachievers as noted in this [2013 OECD report](https://web.archive.org/web/20131017054514/http://www.oecd.org/eco/surveys/OVERVIEW%20-%20New%20Zealand%202013.pdf).
+However, there is a long "tail" of school underachievers as noted in this [2013 OECD report](https://web.archive.org/web/20131017054514/https://www.oecd.org/eco/surveys/OVERVIEW%20-%20New%20Zealand%202013.pdf).
 Part of the meetup was to brainstorm ideas on how technology (machine learning in particular) can lift all facets of society up.
 A few people in our meetup group actually had [Dyslexia](https://en.wikipedia.org/wiki/Dyslexia) for example, and that was our case study I guess.
 
 Sadly, education in the early 21st Century still looks like this:
 
-![](http://yuml.me/diagram/scruffy/class/[Goat|Pre-School]->[Deer|School],[Deer|School]->[Ox|University])
+![](https://yuml.me/diagram/scruffy/class/[Goat|Pre-School]->[Deer|School],[Deer|School]->[Ox|University])
 
 In fact, it's been this way for a long time.
 This is the education system which every one of us in the room was acquainted with.
@@ -151,7 +151,7 @@ Onto personal finance.
 I'll start with one of the 'basics'.
 Budgeting.
 
-![](http://yuml.me/diagram/scruffy/class/[Goat|No-budget]->[Deer|Budget],[Deer|Budget]->[Ox|Unbudget])
+![](https://yuml.me/diagram/scruffy/class/[Goat|No-budget]->[Deer|Budget],[Deer|Budget]->[Ox|Unbudget])
 
 Usually we'll start off with no budget, which is fine when you're young and without a care in the world.
 Once you start earning money though, not having a budget can be a dangerous thing, especially if you happen to have access to credit.
@@ -176,7 +176,7 @@ That said, it *is* your money, you're in charge.
 
 Onto investments.
 
-![](http://yuml.me/diagram/scruffy/class/[Goat|Emergency-fund]->[Deer|Kiwisaver],[Deer|Kiwisaver]->[Ox|Local/International-funds])
+![](https://yuml.me/diagram/scruffy/class/[Goat|Emergency-fund]->[Deer|Kiwisaver],[Deer|Kiwisaver]->[Ox|Local/International-funds])
 
 Always start with an emergency fund, I won't say how much, that's up to you.
 Next is a tax advantaged account, which varies with countries.
@@ -212,7 +212,7 @@ I would like to think that we're all in the same boat.
 In fact, we are.
 Don't think otherwise.
 
-![Three Boxes of Life is all One Boat](http://yuml.me/diagram/scruffy;dir:LR/class/[Study|Work|Leisure]->[Same-boat])
+![Three Boxes of Life is all One Boat](https://yuml.me/diagram/scruffy;dir:LR/class/[Study|Work|Leisure]->[Same-boat])
 
 It may not feel like we've reached the "Future of Work" yet.
 Maybe lifelong study is still up there in virtue space rather than something down to earth we apply everyday.
