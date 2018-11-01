@@ -9,7 +9,7 @@ title: Developing behaviours by starting with why
 >
 > I want to openly share a better map of what lies below Antarctica.
 
-So I've been rambling on in the last few posts in a Zen/Chan-like trance, on **suddenness**.
+So I've been rambling on in my last few posts in a Zen/[Chan](https://en.wikipedia.org/wiki/Chan_Buddhism)-like trance, on **suddenness**.
 Indeed, people really [shouldn't take it a step at a time](/three-box-carts-in-one), because [it's all in the mind](/throw-it-into-the-trash-icon) and there are [better ways to look at things](/time-as-a-whole-instead-of-sequentially).
 
 Yet Chan is not just about emptiness, it is also about **balance**.
@@ -36,14 +36,16 @@ It is not just a business thing though, I went to a workshop on producing an eff
 In it, one of the points made was to put all the good bits in the beginning of the sentence, at the start of the abstract, the first few chapters of your thesis!
 Don't leave all the juicy parts to the end of the text, people want to know **why** your work is original.
 
-It is almost a running joke in academia that you skim the abstract and conclusions of a paper to get at the core idea being put forward.
+It is almost a running joke in academia that you just need to skim the abstract and conclusions of a paper to get at the core idea being put forward.
 Really though, you don't want to lose a reader by putting all your effort in the conclusion and writing your abstract at the last minute.
 Capture the audience, put your best foot forward - in the beginning!
 
 Besides business and writing, you also apply this line of thought to other fields!
-In personal finance, you are often told to come up with a goal.
+In the personal finance world I sometimes blog about, you are often told to come up with a goal first.
+Yes, set a goal before coming up with a budget or finding a financial advisor!
+
 Not just any goal though, you need to think hard about **Why** you want to reach that goal.
-The **How** you do it is simply maths and grit, and the **What** is the dopamine rush when you reach that goal.
+The **How** you do it is simply maths and grit, and the **What** is the reason behind the dopamine rush when you reach that goal.
 
 Did you know that there's even a formalized way to write it out?
 I discovered this as I started creating unit tests and fell down a rabbit hole to...
@@ -55,7 +57,8 @@ It is typically used for getting people on the same page.
 Well, the [Gherkin language](https://en.wikipedia.org/wiki/Cucumber_(software)#Gherkin_language) rather, not the cucumber.
 
 As a domain specific language ([translated to over 70 languages](https://docs.cucumber.io/gherkin/reference/#spoken-languages)), Gherkin is used for writing behaviour scenarios in '.feature' files with an intuitive syntax.
-These '.feature' files are codified templates that can be understood by non-technical people, and used by technical people to guide their coding in [Behaviour-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development). See also [BDD101](https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/).
+These '.feature' files are codified templates that can be understood by non-technical people, and used by technical people to guide their coding in [Behaviour-driven development](https://en.wikipedia.org/wiki/Behavior-driven_development).
+See also [BDD101](https://automationpanda.com/2017/01/25/bdd-101-introducing-bdd/)(Python-orientated).
 
 This is an example I came up with this morning for my current project:
 
@@ -78,14 +81,12 @@ The 'Feature:' is basically the title.
 Under it is context.
 You will see that I've used something akin to the Golden Circle by starting with the **Why**.
 Unlike the Golden Circle though, I put in the **Who** next, a hint at the importance of user-centric design.
-Finally the **What** is spelt out, which is either a model, an app, a fancy function, or you get the idea.
+Finally the **What** is spelt out, which is either a model, an app, a fancy function, or ... you get the idea.
 
 The 'Scenario:' lays out **How** the feature works.
 Under it is a Given-When-Then statement, a form of [Specification by example](https://en.wikipedia.org/wiki/Specification_by_example).
 One way I think of it is as an input-processing-output pipeline.
-*Given* some body of data or knowledge,
-*When* you are faced with something (the app has to act on this),
-*Then* an output is returned.
+*Given* some body of data or knowledge, *When* you are faced with something (the app has to act on this), *Then* an output is returned.
 
 Take this as an opinionated starting template:
 
@@ -131,10 +132,10 @@ Did I hear "what's in it for **me**" you say?
 
 ## What's in it for me
 
-It's easy to for anyone to argue on how to do things (implementation)
+It's easy to for anyone to argue on how to do things (implementation).
 But it is much harder to argue about the why (principles).
 
-By starting with the core **Why**, you deliberately make it as vulnerable/awkward as possible.
+By starting with the core **Why**, you deliberately make things as vulnerable/awkward as you possible could.
 If it's a strong why, it stays.
 If it's not good, people realize it immediately and you can correct the most fundamental problem before it's buried in layers and layers of subjective matter.
 
@@ -157,7 +158,7 @@ As I write this paragraph, the place where I publish my work (Github) is experie
 Yes it's annoying but I'm not too fussed because I've got my continuity plans in place.
 With two local copies of my work, I am able sync it to any other git provider if necessary due to git's [fungible](https://en.wikipedia.org/wiki/Fungibility) nature.
 
-If I were to have used what the people at the university recommended, and that provider were to fail, or if I graduated and get kicked out of the university system...
+If I used what the people at the university recommended, and that provider were to fail, or if I graduate and get kicked out of the university system...
 Yes I might still have my two local copies, but I'd have lost my version control, and it would take lots of time and effort to find another backup provider that does the trick.
 During that time, who knows what might happen to your personal computer?!
 With fungible git, I can simply add a new remote and push it up in a minute like nothing has happened.
@@ -177,7 +178,7 @@ Is this just some propaganda to change all of our language into a strict monoton
 ### Hackers
 
 I'll be honest with you, I'm a guy who likes a good howto article that gets into the nuts and bolts.
-A blog post might just have a **How**-What-Why structure and I won't bat an eye.
+A blog post might have a **How**-What-Why structure and I won't bat an eye.
 Like, just tell me how it works already!!
 Perhaps the developers and engineers reading this will feel the same.
 
@@ -198,22 +199,24 @@ I've worked in the service industry, and you do realize that there are some priv
 
 ### Visionaries
 
-Does this **Why**-first syntax seems like some push from business orientated folk with an agenda don't you think?
+Doesn't this **Why**-first syntax seem like some push from business orientated folk with an agenda?
 Why should we believe in their vision?
 Sure, come up with a vision and have us all adhere to that, building your empire and using your goods.
 
 For the businessman, or teacher, or whatever inspirational leader out there.
-Yes, maybe it's too much of an ask for you to write in Gherkin.
-It's all too easy to send out a tweet or have a witty one-liner quote and have the minions work on it.
-I don't know what to say really, except to be careful of the ideals you are bestowing on the world, because [taking it to the extreme](/on-falling-down-the-optimal-rabbit-hole) can be dangerous.
+Sure, maybe it *is* too much of an ask for you to write in (good) Gherkin.
+It's all too easy to send out a tweet or have a witty one-liner quote sent out, while your minions scramble to work on it.
+I don't know what to say really.
+Perhaps be careful of the ideals you are bestowing on the world, because [taking it to the extreme](/on-falling-down-the-optimal-rabbit-hole) can be dangerous.
 
 ### Hustle on!!!
 
 It's easy to specialize into your own silos, I know.
 Although you get some great people who can cover all three, or maybe two out of the three questions (Why-How-What) in detail, it's a rarity.
 
-Even as an individual, coming back to my PhD, I find it tricky to balance all three.
+As an individual, I do find it tricky to balance all three.
 
+Coming back to my PhD...
 Some days or weeks I would just get so engrossed in coding, implementing cool bleeding edge stuff that few people on the planet have done before.
 When it comes to writing, it can be scary to go deep into the "Why?" question, because it means a lot of soul searching.
 Further down the track, I'll need to explain myself too, what I've done over my PhD, what it means for our world!
@@ -226,6 +229,6 @@ Be it communication between your team members, or communication with the differe
 At the end of the day, you need to get to the same page.
 Start with the **Why**.
 Hopefully you find the gherkin spec helpful in formalizing your thoughts.
-As for what next, that's up to you to discover!
+As for what comes next, that's up to you to discover!
 
 Get going!
