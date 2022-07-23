@@ -1,4 +1,4 @@
-# [Let's Just Wander!](https://letsjustwander.now.sh)
+# [Let's Just Wander!](https://letsjustwander.vercel.app)
 
 [![P2P Blog](https://dat-badge.glitch.me/letsjustwander.hashbase.io/badge.svg)](https://letsjustwander.hashbase.io)
 
@@ -31,24 +31,24 @@ Built using the [Eleventy](https://github.com/11ty/11ty.io) static site generato
 How to replicate a static blog like this for the technical minded!
 Also, optional steps for those wanting to go the p2p way.
 
-## Install [11ty](https://www.11ty.io/docs/getting-started) static site generator and [Zeit Now](https://github.com/zeit/now-cli) for static hosting
+## Install [11ty](https://www.11ty.io/docs/getting-started) static site generator and [Vercel](https://vercel.com/docs/cli) for static hosting
     npm install -g @11ty/eleventy
-    npm install -g now
+    npm install -g vercel
 
 ## Build html files with eleventy
     # Change directory into the blog folder
     cd letsjustwander
     # Use eleventy to build from `.` directory to `_site`
-    eleventy
+    npx @11ty/eleventy
 
-## Deploy into the web with Zeit Now
+## Deploy into the web with Vercel
     # Deploy static html files in the `_site` folder
-    now _site
-    # Cleanup old Zeit instances (if any)
-    now ls
-    now rm _site
+    npx vercel deploy _site
+    # Cleanup old Vercel instances (if any)
+    npx vercel ls
+    npx vercel rm _site
     # Point the `https://site-<abcdefgh>.now.sh` instance to `https://letsjustwander.now.sh`
-    now alias site-<abcdefgh>.now.sh letsjustwander.now.sh
+    npx vercel alias https://<abcdefgh>.vercel.app letsjustwander.vercel.app
 
 ## (Optional) Deploy into the p2p world with Dat/Beaker Browser
 
